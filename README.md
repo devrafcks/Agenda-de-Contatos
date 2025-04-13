@@ -1,5 +1,6 @@
 # 📞 Agenda de Contatos
 
+![image](https://github.com/user-attachments/assets/918d6dd8-33cd-4351-98d7-e8f94c0862e6)
 
 Este é um projeto simples feito com HTML, CSS e JavaScript para praticar manipulação de DOM, formulários e eventos.
 
